@@ -1,7 +1,7 @@
 # deep_learning_specialization_coursera
 This repository contains all the assignments I completed in the 4 programming courses (4/5) of the deep learning specialization on Coursera. One of the courses covered only theoretical concepts that guide the structure of machine learning projects.
 
-[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/27L7AT7ZQ6GC)<nbsp> [Sponsor:](https://www.deeplearning.ai/)
+[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/27L7AT7ZQ6GC) &nbsp [Sponsor:](https://www.deeplearning.ai/)
 Taught by: @Andrew Ng
 
 
@@ -41,16 +41,16 @@ Taught by: @Andrew Ng
 1. Week1 - Foundations of Convolutional Neural Networks: Covers: cnns, valid and same convolutions, stridded convolutions, pooling, one layer cnns.
  <br>**Practical implementation: Convolutional Model Application**
 
-2. Week2 - Deep convolutional models: case studies (LeNet_5, AlexNet, VGG, ResNets, Inception) - Papers:  [ImageNet Classification with Deep Convolutional
-Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+2. Week2 - Deep convolutional models: case studies (LeNet_5, AlexNet, VGG, ResNets, Inception) 
+* Papers:  [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), &nbsp [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
  <br>**Practical implementation: Residual Networks**
 
 3. Week3 - Object detection: Covers: Object localization, Landmark detection, Object detection, sliding window algorithm, bounding box predictions, non-max suppression, anchor boxes, YOLO algorithm
-Papers: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
+* Papers: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), &nbsp [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
 <br>**Practical implementation: Car detection with YOLO**
 
 4. Week4 - Special applications: Face recognition & Neural style transfer Covers: Face verification and face recognition, Siamese networks, Triplet loss, Neural style transfer and its cost functions (content cost and style cost).
-Papers: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+* Papers: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), &nbsp [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
 <br>**Practical implementation: Face recognition, Art generation with Neural Style Transfer**
 
 
