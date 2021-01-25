@@ -1,22 +1,21 @@
 # deep_learning_specialization_coursera
 This repository contains all the assignments I completed in the 4 programming courses (4/5) of the deep learning specialization on Coursera. One of the courses covered only theoretical concepts that guide the structure of machine learning projects.
 
-[Specialization Certificate:] (https://www.coursera.org/account/accomplishments/specialization/certificate/27L7AT7ZQ6GC) 
-[Sponsor:](https://www.deeplearning.ai/)
+[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/27L7AT7ZQ6GC) [Sponsor:](https://www.deeplearning.ai/)
 Taught by: @Andrew Ng
 
 
 ## Course 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/V5DLC5DB8XTG)
 1. Week1 - Introduction to deep learning
 
-2. Week2 - Neural Networks Basics
+2. Week2 - Neural Networks Basics <br>
 **Practical implementation: Logistic regression with neural networks**
 
 3. Week3 - Shallow neural networks
-**Practical implementation: Planar data classification with hidden layer**
+* **Practical implementation: Planar data classification with hidden layer**
 
 4. Week4 - Deep Neural Networks
-**Practical implementation: Building a deep neural network step-by-step, Deep neural network application**
+* **Practical implementation: Building a deep neural network step-by-step, Deep neural network application**
 
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/FT4UZMMZPU3G)
