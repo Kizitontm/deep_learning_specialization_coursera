@@ -1,7 +1,7 @@
 # deep_learning_specialization_coursera
 This repository contains all the assignments I completed in the 4 programming courses (4/5) of the deep learning specialization on Coursera. One of the courses covered only theoretical concepts that guide the structure of machine learning projects.
 
-[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/27L7AT7ZQ6GC) &nbsp [Sponsor:](https://www.deeplearning.ai/)
+[Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/27L7AT7ZQ6GC) <br /> [Sponsor:](https://www.deeplearning.ai/)
 Taught by: @Andrew Ng
 
 
