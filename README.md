@@ -49,9 +49,9 @@ Taught by: @Andrew Ng
 * Papers: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), &nbsp [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
 <br>**Practical implementation: Car detection with YOLO**
 
-4. Week4 - Special applications: Face recognition & Neural style transfer Covers: Face verification and face recognition, Siamese networks, Triplet loss, Neural style transfer and its cost functions (content cost and style cost).
+4. Week4 - Special applications: Face verification and recognition & Neural style transfer Covers: Face verification and face recognition, Siamese networks, Triplet loss, Neural style transfer and its cost functions (content cost and style cost).
 * Papers: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), &nbsp [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
-<br>**Practical implementation: Face recognition, Art generation with Neural Style Transfer**
+<br>**Practical implementation: Face verification & recognition, Art generation with Neural Style Transfer**
 
 
 ## Course 5. [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/YCVUGRS3A6SF)
